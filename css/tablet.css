@@ -1,0 +1,42 @@
+.section-one__containergen{
+    margin-left: 7px;
+    display: flex;
+    justify-content: center;
+    width: 900px;
+}
+.section-one__containerbit{
+    margin-left: 7px;
+    display: flex;
+    justify-content: center;
+    width: 900px;
+}
+.section-two{
+height: auto;
+padding: 50px;
+}
+.section-two__cajas{
+    display: flex;
+    width: 900px;
+    flex-wrap: wrap;
+    gap: 0 50px;
+    justify-content: center;
+}
+.section-two__container1{
+    order: 1;
+}
+.section-two__container2{
+    order: 3;
+}
+.section-two__container3{
+    order: 2;
+}.section-two__container4{
+    order: 4;
+}
+.section-three__containertar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    padding: 0;
+    padding-bottom: 50px;
+}
